@@ -10,7 +10,7 @@ You will need to grab the following before you start
 - Step 2 : Microsoft Access Database 2003.
 - Step 3 : Run the application
 
-## Step 3 : Please feel free to contact me if any assistance is needed in the future
+## Please feel free to contact me if any assistance is needed in the future
 
 - Email: jisan146@gmail.com
 - skype: jisan146
