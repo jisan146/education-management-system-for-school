@@ -9,3 +9,10 @@ You will need to grab the following before you start
 - Step 1 : Microsoft Visual Basic 6.0
 - Step 2 : Microsoft Access Database 2003.
 - Step 3 : Run the application
+
+## Step 3 : Please feel free to contact me if any assistance is needed in the future
+
+- Email: jisan146@gmail.com
+- skype: jisan146
+- WhatsApp: +880 1572 577 640
+- LinkedIn : www.linkedin.com/in/jisan146/
